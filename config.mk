@@ -32,9 +32,9 @@ https://github.com/nathanhinish/reaction.git,reaction,v3.8.0 \
 https://github.com/reactioncommerce/reaction-identity.git,reaction-identity,v3.1.0 \
 https://github.com/reactioncommerce/reaction-admin.git,reaction-admin,v3.0.0-beta.7 \
 https://github.com/reactioncommerce/example-storefront.git,example-storefront,v3.1.0 \
-https://github.com/nathanhinish/reactioncommerce-api-plugin-payments-paypal.git,plugins/api-plugin-payments-paypal,trunk \
-https://github.com/nathanhinish/reactioncommerce-api-plugin-wishlists.git,plugins/api-plugin-wishlists,trunk \
-https://github.com/nathanhinish/reactioncommerce-admin-plugin-wishlists.git,plugins/admin-plugin-wishlists,trunk
+https://github.com/nathanhinish/reactioncommerce-api-plugin-payments-paypal.git,api-plugin-payments-paypal,trunk \
+https://github.com/nathanhinish/reactioncommerce-api-plugin-wishlists.git,api-plugin-wishlists,trunk \
+https://github.com/nathanhinish/reactioncommerce-admin-plugin-wishlists.git,admin-plugin-wishlists,trunk
 endef
 
 # These are all the plugins that `make clone-api-plugins` will clone.

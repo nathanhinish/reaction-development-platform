@@ -19,13 +19,13 @@
   url = https://github.com/reactioncommerce/reaction-identity.git
 
 [submodule "api-plugin-payments-paypal"]
-  path = plugins/api-plugin-payments-paypal
+  path = api-plugin-payments-paypal
   url = https://github.com/nathanhinish/reactioncommerce-api-plugin-payments-paypal.git
 
 [submodule "api-plugin-wishlists"]
-  path = plugins/api-plugin-wishlists
+  path = api-plugin-wishlists
   url = https://github.com/nathanhinish/reactioncommerce-api-plugin-wishlists.git
 
 [submodule "admin-plugin-wishlists"]
-  path = plugins/admin-plugin-wishlists
+  path = admin-plugin-wishlists
   url = https://github.com/nathanhinish/reactioncommerce-admin-plugin-wishlists.git
