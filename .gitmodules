@@ -1,0 +1,20 @@
+[submodule "example-storefront"]
+  path = example-storefront
+  url = https://github.com/reactioncommerce/example-storefront.git
+
+[submodule "reaction"]
+  path = reaction
+  url = https://github.com/reactioncommerce/reaction.git
+
+[submodule "reaction-admin"]
+  path = reaction-admin
+  url = https://github.com/reactioncommerce/reaction-admin.git
+
+[submodule "reaction-hydra"]
+  path = reaction-hydra
+  url = https://github.com/reactioncommerce/reaction-hydra.git
+
+[submodule "reaction-identity"]
+  path = reaction-identity
+  url = https://github.com/reactioncommerce/reaction-identity.git
+
