@@ -1,6 +1,6 @@
-[submodule "example-storefront"]
-  path = example-storefront
-  url = https://github.com/reactioncommerce/example-storefront.git
+[submodule "givelist-storefront"]
+  path = givelist-storefront
+  url = https://github.com/nathanhinish/givelist-storefront.git
 
 [submodule "reaction"]
   path = reaction
